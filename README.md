@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learn Next.js
 
 This repository contains starter templates and final code for [Learn Next.js](https://nextjs.org/learn) courses:
@@ -11,3 +12,7 @@ This repository contains starter templates and final code for [Learn Next.js](ht
 The code for the example apps you build using Next.js Learn live in this repository and we'd be grateful for your contributions.
 
 The course curriculum is currently not open sourced, but you can [create an issue](https://github.com/vercel/next-learn/issues/new) if you find a mistake.
+=======
+# React-training
+An react training repository for my team members
+>>>>>>> 5ba38b72ed32e38ec9338c685f268e6b150e65c4
